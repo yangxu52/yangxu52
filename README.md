@@ -1,4 +1,4 @@
-<p align="center"><a href="https://blog.yangxu52.top"><img width="80%" alt="Hello, I'm yangxu52. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://blog.yangxu52.top"><img src="./assets/gh-readme-header.png" alt="Hello, I'm yangxu52. A fullstack developer." /></a></p>
 
 <br />
 
